@@ -1,0 +1,2 @@
+question_number,question,possible_marks,marking_scheme,possible_answers
+1,What is a cat?,3,Give 3 marks for a full definition. Give 1 mark for a partial definition.,"A cat is not a bat [1 mark]. A cat is a cat [2 marks]. A cat is a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws. [3 marks]"
